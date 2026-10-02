@@ -12,3 +12,6 @@ This is my first website project.
 
 ## Author
 Aadil Chaudhary
+
+## Namaz 
+this website make because i am a muslim
